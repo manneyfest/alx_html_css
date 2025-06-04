@@ -22,3 +22,43 @@ body {
     overflow-y: auto;
   }
   
+  /* === My Custom Styles === */
+  
+  body {
+    background-color: #fffafc;
+    color: #333;
+  }
+  
+  header {
+    background-color: #ffe4ec;
+    border-bottom: 2px solid #ffb3c1;
+  }
+  
+  footer {
+    background-color: #ffe4ec;
+    color: #444;
+    text-align: center;
+  }
+  
+  article {
+    background-color: #fff0f5;
+    border-left: 5px solid #ff8fab;
+    padding: 30px;
+  }
+  
+  aside {
+    background-color: #fef6f9;
+    border-left: 3px solid #ffb3c1;
+  }
+  
+  a {
+    color: #ff4f81;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  header li.logo {
+    color: #ff4f81;
+  }
+  
